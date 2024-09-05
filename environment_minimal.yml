@@ -1,0 +1,17 @@
+name: carneysummer
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - czifile
+  - imageio
+  - jupyter
+  - matplotlib
+  - numpy
+  - opencv
+  - pandas
+  - pillow
+  - scipy
+  - seaborn
+  - scikit-image
+  - tifffile
